@@ -73,7 +73,7 @@ Other test pages for certificates, both valid and invalid, are available at [htt
 
 ### Test the installer on Windows
 
-Download the installer version and make sure that everything is working correctly. In the [FTP folder](http://archive.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/) you have both the Full Installer and the Stub Installer (downloading the package from Internet). You should test both at least once.,
+Download the installer version and make sure that everything is working correctly. In the [FTP folder](http://archive.mozilla.org/pub/firefox/nightly/latest-mozilla-central-l10n/) you have both the Full Installer and the Stub Installer (downloading the package from Internet). You should test both at least once.
 
 ## Photon
 
